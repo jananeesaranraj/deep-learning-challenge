@@ -51,6 +51,7 @@ So, the final model had the following features.
 
 •	The target predictive accuracy was 73%
 
+![Initial_Accuracy](https://user-images.githubusercontent.com/112193116/220409773-35ce6691-7b25-4e1a-942f-a967333c1702.png)
  
 •	In order to increase the performance, further adjustments were made to optimize the model by removing the features “STATUS” and “SPECIAL_CONSIDERATIONS“ and added the feature “NAME”.
 •	Created binning for the rare occurrences in the columns “AFFLIATION “and “NAME”.
